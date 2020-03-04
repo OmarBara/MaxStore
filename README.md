@@ -6,7 +6,11 @@ npm run react-dev
 npm run server-dev
 
 # demo
+<<<<<<< HEAD
 ![](mygif.gif)
+=======
+![](mygif (1).gif)
+>>>>>>> 62d9c9f66ef971888832374098803fe7be58a2cd
 
 # Prerequisites
 webpack
