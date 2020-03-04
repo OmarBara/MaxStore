@@ -57,8 +57,8 @@ Nodejs.
 # Authors
 Ahmed .
 Hamza.
-Omar.
+Omar Bara.
 Abdlrrahman Shibani.
 
 # Inspiration
-opensooqe.
+opensooqe and social media.
