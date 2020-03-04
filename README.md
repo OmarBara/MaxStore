@@ -5,6 +5,9 @@ This a store where the the user can buy and sell and the payment is handeld by t
 npm run react-dev
 npm run server-dev
 
+# demo
+![](gif.gif)
+
 # Prerequisites
 webpack
 bcryptjs
