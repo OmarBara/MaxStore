@@ -1,16 +1,12 @@
 # MaxStore
-This a store where the the user can buy and sell and the payment is handeld by the the buyer and the seller, where the buyer can call the seller on his number from his profile page
+This a store where the the user can buy and sell his products and also follow other user and have feed about their new products and status, the payment is handled by the the buyer and the seller, where the buyer can contact the seller from his profile information page.
 
 # Getting Started
 npm run react-dev
 npm run server-dev
 
 # demo
-<<<<<<< HEAD
 ![](mygif.gif)
-=======
-![](mygif (1).gif)
->>>>>>> 62d9c9f66ef971888832374098803fe7be58a2cd
 
 # Prerequisites
 webpack
